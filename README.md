@@ -6,7 +6,7 @@ What's up!?
 Im Matheus from Lins(Brazil), a enthusiasth of programmation since 2018!! 
 
 More about me
-<hr>
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-5271FF?style=flat-square&labelColor=5271FF&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-5271FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-5271FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+
+![linkedin](https://user-images.githubusercontent.com/63295491/187245024-7c50eb36-5e17-4ae9-a920-e32d41ff74b3.png)  Matheus Pitas Baptista
+![gmail](https://user-images.githubusercontent.com/63295491/187245035-01baab2a-4f75-4348-8c4b-2a76224b46ea.png)   contatomatheuspitas@gmail.com
+
