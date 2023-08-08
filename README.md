@@ -1,6 +1,7 @@
 
 
-![Github](https://github.com/matpitas/matpitas/assets/63295491/45ab0e3f-e227-4132-85af-5697963fd5d6)
+![Cover](https://github.com/matpitas/matpitas/assets/63295491/16668987-e437-43f0-b754-2df148b009b0)
+
 
 
 <h5>enthusiast</h5>
