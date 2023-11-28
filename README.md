@@ -1,6 +1,5 @@
 
 
-![Cover](https://github.com/matpitas/matpitas/assets/63295491/16668987-e437-43f0-b754-2df148b009b0)
 
 
 <br><br>
