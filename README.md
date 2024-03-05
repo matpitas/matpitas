@@ -8,6 +8,7 @@
 <br><br>
 ## **🤓☝ Bons Conhecimentos**
 <p>
+  <img src="https://img.shields.io/badge/NextJS-F2F2F2?style=for-the-badge&logo=next.js&logoColor=black" alt="NextJS">
   <img src="https://img.shields.io/badge/Javascript-EAC80B?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
   <img src="https://img.shields.io/badge/Typescript-0F58DB?style=for-the-badge&logo=typescript&logoColor=black" alt="Typescript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
