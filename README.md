@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"> 
   <img src="https://img.shields.io/badge/MySql-2246FC?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql">
   <img src="https://img.shields.io/badge/Oracle-FF3333?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"> 
+  <img src="https://img.shields.io/badge/Java-FF3333?style=for-the-badge&logo=java&logoColor=white" alt="Java"> 
 </p>
 
 <br><br>
@@ -26,17 +27,10 @@
 
 <br><br>
 ## **📈 Github Stats**
-<center>
-  <table>
-      <tr>
-        <td>
-          <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matpitas&hide=html&layout=compact&theme=radical" />
-        </td>
-        <td>
-          <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=matpitas&theme=radical&show_icons=true"/>
-        </td>
-     </tr>
-  </table>
-</center>
+<div align="center">
+  
+[![Pitas top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matpitas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
 
 <br><br>
