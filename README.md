@@ -5,5 +5,5 @@
 </div>
 
 <div>
- <img src="https://github.com/matpitas/matpitas/images/main/CozyGif.gif" width="220">
+ <img src="https://github.com/matpitas/matpitas/5m5h.gif" width="220">
 </div>
